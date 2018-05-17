@@ -26,7 +26,7 @@ Your company's front end team has completed a business dashboard requested by ma
 
 
 ### MVC
-* create Routes, Models and Controllers
+//* create Routes, Models and Controllers folders
 * Look at server/state.js
 * create mongoose models that follow the example data
 * create get routes, use the Models to get data from the database
