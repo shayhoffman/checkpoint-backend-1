@@ -9,7 +9,7 @@ Your company's front end team has completed a business dashboard requested by ma
 //* npm isntall express
 //* server/index.js
 //* listen on port 3001
-* connect to your mlab database
+//* connect to your mlab database
 
 ### Routes
 * create get routes.
@@ -22,7 +22,7 @@ Your company's front end team has completed a business dashboard requested by ma
 
 ### Database
 //* use mlab to create a database
-* add 3 collections: messages, tasks, orders
+//* add 3 collections: messages, tasks, orders
 
 
 ### MVC
@@ -40,7 +40,7 @@ Your company's front end team has completed a business dashboard requested by ma
 
 
 ### node-fetch
-* The ceo likes to look at pictures of foxes while reading business reports
+//* The ceo likes to look at pictures of foxes while reading business reports
 //* install node-fetch
 * make a route for /foxes
 * make a http get call to https://randomfox.ca/floof/

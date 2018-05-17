@@ -5,7 +5,7 @@ const app = express();
 
 app.use(bodyParser.json());
 mongoose.Promise = global.Promise;
-mongoose.connect()
+mongoose.connect("mongodb://shayhoffman:nalarocks1@ds119930.mlab.com:19930/firstdatabasestuff")
 
 
 
